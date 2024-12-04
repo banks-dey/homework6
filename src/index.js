@@ -5,7 +5,7 @@ console.log(name);
 
 //Store your age inside a variable and log it to the console.
 let age = 25;
-console.log(25);
+console.log(age);
 
 //Add two numbers and store it in a variable and log it to the console.
 
